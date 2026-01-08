@@ -298,4 +298,6 @@ fn main() {
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2026 My Jet Tools
